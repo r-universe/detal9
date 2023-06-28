@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BACprior"]
 	path = BACprior
 	url = https://github.com/cran/BACprior
-	shallow = true
-	registered = true
 [submodule "BCEE"]
 	path = BCEE
 	url = https://github.com/cran/BCEE
-	shallow = true
-	registered = true
 [submodule "InferenceSMR"]
 	path = InferenceSMR
 	url = https://github.com/cran/InferenceSMR
-	shallow = true
-	registered = true
