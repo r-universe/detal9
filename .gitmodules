@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "BACprior"]
 	path = BACprior
-	url = https://github.com/cran/BACprior
+	url = https://github.com/detal9/bacprior
 [submodule "BCEE"]
 	path = BCEE
 	url = https://github.com/cran/BCEE
